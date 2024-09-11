@@ -8,7 +8,10 @@ const perguntas = [
     {
        enunciado: "A feijoada teve sua origem na época da escravidão pela escassez de alimento, os escravos comiam as sobras deixadas pelos ricos e desde então, este prato virou parte da culinária brasileira. Qual das seguintes afirmações sobre a feijoada e seu contexto racial e cultural  é verdadeira?",
        alternativas: [
-            "A feijoada é um prato que foi exclusivamente desenvolvido na Europa e não tem conexão com a história do racismo ou a cultura afro-brasileira . ",
+       {
+         
+           "A feijoada é um prato que foi exclusivamente desenvolvido na Europa e não tem conexão com a história do racismo ou a cultura afro-brasileira . ",
+        }
             "A feijoada, embora originalmente um prato associado a culinária afro-brasileira, pode ser usado como um meio de promover a preservação cultural e discutir questões de racismo no Brasil."
        ]
     },
